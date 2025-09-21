@@ -1,2 +1,2 @@
-### stanlywilson.github.io
+### stanlypalathingal.github.io
 my personal website
